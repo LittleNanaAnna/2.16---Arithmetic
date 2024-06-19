@@ -1,4 +1,5 @@
 //2.16 Write a program that asks the user to enter two numbers, obtains the two numbers from the user and prints the sum, product, difference, and quotient of the two numbers.
+//Programmer: Anna Le
 #include <iostream>
 using namespace std;
 
